@@ -70,15 +70,7 @@ boss = ['CS1638']#usuarios supremos
 Configs = {"uclv":'',"gtm":"","uvs":"","ltu":"", 
 			"ucuser": "", "ucpass":"","uclv_p":"","xdlink":False, "gp":None, "s":"On", 
 			'CS1638': {'z': 99,"m":"u","a":"c","t":"y","gp":False},
-			'Locura05': {'z': 99,"m":"u","a":"c","t":"y","gp":False},
-	                'DRP96': {'z': 99,"m":"u","a":"c","t":"y","gp":False},
-                        'Orisha91': {'z': 99,"m":"u","a":"c","t":"y","gp":False},
-                        'theboys34': {'z': 99,"m":"u","a":"c","t":"y","gp":False},
-	                'MarIOo06': {'z': 99,"m":"u","a":"c","t":"y","gp":False},
-	                'DioelHD': {'z': 99,"m":"u","a":"c","t":"y","gp":False},
-                        'Infan92': {'z': 99,"m":"u","a":"c","t":"y","gp":False},
-                        'TeafMaster': {'z': 99,"m":"u","a":"c","t":"y","gp":False},
-                        'anonedev': {'z': 99,"m":"u","a":"c","t":"y","gp":False}}
+			'MM90CS24': {'z': 99,"m":"u","a":"c","t":"y","gp":False}
 
 Urls = {} #urls subidos a educa
 Urls_draft = {} #urls para borrar de draft
