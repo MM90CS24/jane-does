@@ -156,7 +156,7 @@ async def tutorial(client: Client, message: Message):
 		await send("⛔ 𝑵𝒐 𝒕𝒊𝒆𝒏𝒆 𝒂𝒄𝒄𝒆𝒔𝒐")
 		return
 	else:pass
-	await send("Para comenzar enviame un enlace de telegram o link admisible por el bot y a continuacion utiliza el comando up o el nombrado subir archivos para empezar a convertirlo en documento telegram")
+	await send("Para comenzar enviame un enlace de telegram o link admitidos por el bot y a continuacion utiliza el comando up o el nombrado subir archivos para empezar a convertirlo en documento telegram")
 
 # modos de subida y config
 @bot.on_message(filters.command("eopyu", prefixes="/")& filters.private)
