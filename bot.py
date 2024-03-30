@@ -60,16 +60,16 @@ import random
 
 import io
 
-api_id = 29188695
-api_hash = "8ad05ecc665ec609254751c6d00c7322"
+api_id = 28320657
+api_hash = "d67dd4c0f928836ce2313c8b44ffc872"
 bot_token = Bot_token
 Channel_Id = chanel_id
 bot = Client("bot",api_id=api_id,api_hash=api_hash,bot_token=bot_token)
-boss = ['anonedev']#usuarios supremos
+boss = ['CS1638']#usuarios supremos
 
 Configs = {"uclv":'',"gtm":"","uvs":"","ltu":"", 
 			"ucuser": "", "ucpass":"","uclv_p":"","xdlink":False, "gp":None, "s":"On", 
-			'valdes_95': {'z': 99,"m":"u","a":"c","t":"y","gp":False},
+			'CS1638': {'z': 99,"m":"u","a":"c","t":"y","gp":False},
 			'Locura05': {'z': 99,"m":"u","a":"c","t":"y","gp":False},
 	                'DRP96': {'z': 99,"m":"u","a":"c","t":"y","gp":False},
                         'Orisha91': {'z': 99,"m":"u","a":"c","t":"y","gp":False},
